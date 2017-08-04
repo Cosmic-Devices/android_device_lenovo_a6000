@@ -1,13 +1,8 @@
 [
   {
     "remote": "github",
-    "repository": "Cosmic-Devices/android_device_cyanogen_msm8916-common",
-    "target_path": "device/cyanogen/msm8916-common"
-  },
-  {
-    "remote": "github",
-    "repository": "android_external_stlport",
-    "target_path": "external/stlport"
+    "repository": "mayankbali/android_device_lenovo_msm8916-common",
+    "target_path": "device/lenovo/msm8916-common"
   },
   {
     "remote": "github",
