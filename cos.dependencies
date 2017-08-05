@@ -1,11 +1,10 @@
 [
   {
-    "remote": "github",
     "repository": "mayankbali/android_device_lenovo_msm8916-common",
     "target_path": "device/lenovo/msm8916-common"
+    "branch": "cm-14.1"
   },
   {
-    "remote": "github",
     "repository": "mayankbali/proprietary-vendor_lenovo",
     "target_path": "vendor/lenovo",
     "branch": "cm-14.1"
